@@ -13,7 +13,7 @@ export const RouteList = [
         component: IdeaDashboard
     },
     {
-        path: '/login',
+        path: '/',
         component: LoginPage,
     }
 ]
